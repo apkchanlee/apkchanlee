@@ -1,34 +1,27 @@
 # Hi there, I'm Chandru Venkatesan (apkchanlee) 👋
 
-I'm a **Senior Android Engineer** with 6.5+ years of experience developing Android and Android Automotive (AAOS) applications for enterprise, IoT, and EV platforms. Currently, I build production Android Automotive applications for EV instrument cluster software at **Royal Enfield**.
+I am a **Senior Android Engineer** with 6.5+ years of experience specializing in standard Android, **Android Automotive OS (AAOS)**, and **IoT/Embedded platforms**. Currently, I am driving the digital rider experience at **Royal Enfield**, developing production-grade instrument cluster software for electric vehicles.
 
-I enjoy building scalable Android applications, integrating Android into AAOS, and working on connected vehicle technologies.
+I bridge the gap between software and hardware—scaling enterprise applications, building custom AOSP integrations, and developing connected vehicle technologies. 
 
 ---
 
-## 🚀 What I Do
+## 🚀 Core Expertise
 
-### 📱 Android Development
-- Android SDK
-- Java & Kotlin
-- MVVM & Clean Architecture
-- REST APIs
-- Firebase
-- Android Services
+### 🚗 Android Automotive & EV Systems
+* **AAOS Development:** Building production-ready applications for EV instrument clusters using Android Car APIs.
+* **AOSP & Build Systems:** Integrating application layers into AAOS source builds using `Android.bp` and the AOSP build system.
+* **Inter-Process Communication:** Implementing robust, efficient IPC architectures using Android AIDL.
+* **Connected Mobility:** Developing BLE communication protocols for TPMS and hardware devices to process real-time sensor data.
 
-### 🚗 Android Automotive
-- Android Automotive (AAOS) application development
-- Android.bp & AOSP application integration
-- Android Car APIs
-- Android AIDL
-- BLE communication
-- EV Instrument Cluster applications
+### 📱 Enterprise Android Engineering
+* **Architecture:** Architecting robust, testable, and maintainable codebases utilizing MVVM and Clean Architecture principles.
+* **Languages & Core SDK:** Advanced proficiency in Kotlin and Java alongside the core Android SDK.
+* **Data & Networking:** Integrating secure REST APIs (Retrofit), JSON parsing, and Firebase platform services.
 
-### ☁️ Backend
-- PHP
-- AWS
-- MySQL
-- Firebase Realtime Database
+### 🌐 IoT, Embedded & Full-Stack
+* **Hardware Integration:** Interfacing Android environments with Arduino, Raspberry Pi, and embedded systems.
+* **Backend Systems:** Building supportive backend infrastructure using PHP, Node.js, and AWS-hosted services.
 
 ---
 
@@ -36,24 +29,25 @@ I enjoy building scalable Android applications, integrating Android into AAOS, a
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Kotlin, PHP, SwiftUI, Python |
-| **Android** | Android SDK, Android Studio, AAOS, Android.bp, AIDL, JNI, MVVM |
-| **Networking** | Retrofit, REST APIs, Firebase, JSON |
+| **Languages** | Kotlin, Java, Swift, PHP, Python |
+| **Automotive & AOSP** | Android Automotive OS (AAOS), Android.bp, AIDL, JNI, Car API |
+| **Android Core** | Android SDK, Android Studio, Gradle, MVVM, Clean Architecture, Jetpack |
+| **Networking & Cloud**| Retrofit, REST APIs, JSON, Firebase, AWS, Node.js |
 | **Tools & OS** | Git, Linux, ADB, Fastboot, WSL, Jira |
 
 ---
 
-## 📈 Achievements
+## 📈 Key Milestones & Achievements
 
-- 🚗 Developing production Android Automotive software at Royal Enfield.
-- 📱 Published 25+ Android applications.
-- 🎓 Master of Computer Applications (MCA).
-- 💼 6.5+ years of professional Android development experience.
+* 🚗 **Automotive Engineering:** Engineering next-generation EV cluster systems at Royal Enfield.
+* 📱 **Indie Development:** Built and independently published **25+ applications** to the Google Play Store.
+* 💼 **Proven Track Record:** 6.5+ years of production experience spanning Automotive, IoT, and SaaS platforms.
+* 🎓 **Academic Foundation:** Master of Computer Applications (MCA) graduate.
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/apkchanlee
-- 🌍 Portfolio: https://infotechgalaxy.com
-- 📧 Email: apkchanlee@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/apkchanlee](https://linkedin.com/in/apkchanlee)
+* 🌍 **Portfolio:** [infotechgalaxy.com](https://infotechgalaxy.com)
+* 📧 **Email:** [apkchanlee@gmail.com](mailto:apkchanlee@gmail.com)
