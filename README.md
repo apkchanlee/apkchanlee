@@ -51,3 +51,4 @@ My expertise lies in building application-layer software for specialized platfor
 * 💼 **LinkedIn:** [linkedin.com/in/apkchanlee](https://linkedin.com/in/apkchanlee)
 * 🌍 **Portfolio:** [infotechgalaxy.com](https://infotechgalaxy.com)
 * 📧 **Email:** [apkchanlee@gmail.com](mailto:apkchanlee@gmail.com)
+* 🎯 **Leetcode:** [leetcode.com/apkchanlee/](https://leetcode.com/u/apkchanlee/)
