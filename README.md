@@ -1,27 +1,27 @@
 # Hi there, I'm Chandru Venkatesan (apkchanlee) 👋
 
-I am a **Senior Android Engineer** with 6.5+ years of experience specializing in standard Android, **Android Automotive OS (AAOS)**, and **IoT/Embedded platforms**. Currently, I am driving the digital rider experience at **Royal Enfield**, developing production-grade instrument cluster software for electric vehicles.
+I am a **Senior Android Engineer** with 6.5+ years of experience developing applications across enterprise SaaS, IoT, and Automotive platforms. Currently, I engineer production Android applications tailored for EV instrument cluster environments at **Royal Enfield**.
 
-I bridge the gap between software and hardware—scaling enterprise applications, building custom AOSP integrations, and developing connected vehicle technologies. 
+My expertise lies in building application-layer software for specialized platforms—developing vehicle-facing apps using Android Car APIs, managing application integration within custom AOSP builds (packages/apps), and handling inter-process communication.
 
 ---
 
 ## 🚀 Core Expertise
 
-### 📱 Enterprise Android Engineering
-* **Architecture:** Architecting robust, testable, and maintainable codebases utilizing MVVM and Clean Architecture principles.
-* **Languages & Core SDK:** Advanced proficiency in Java and Kotlin alongside the core Android SDK.
-* **Data & Networking:** Integrating secure REST APIs (Retrofit), JSON parsing, and Firebase platform services.
+### 🚗 Android Automotive (AAOS) Application Engineering
+* **Vehicle Applications:** Developing production Android apps for EV instrument clusters using Android Car APIs.
+* **AOSP App Integration:** Integrating apps directly into custom system builds via `packages/apps` using `Android.bp` blueprints.
+* **System IPC:** Building robust application-to-service communication layers using Android AIDL.
+* **Connected Features:** Interfacing apps with BLE protocols (e.g., TPMS) to display real-time vehicle data.
 
-### 🚗 Android Automotive & EV Systems
-* **AAOS Development:** Building production-ready applications for EV instrument clusters using Android Car APIs.
-* **AOSP & Build Systems:** Integrating application layers into AAOS source builds using `Android.bp` and the AOSP build system.
-* **Inter-Process Communication:** Implementing robust, efficient IPC architectures using Android AIDL.
-* **Connected Mobility:** Developing BLE communication protocols for TPMS and hardware devices to process real-time sensor data.
+### 📱 Enterprise & Systems App Development
+* **Architecture:** Building highly stable, maintainable system-level and user-facing apps using MVVM principles.
+* **Core Development:** Heavy focus on Java (Primary) and Kotlin (Secondary) for enterprise and embedded Android environments.
+* **Data & Middleware:** Developing Android service components, integrating REST APIs (Retrofit), and managing JNI layers.
 
-### 🌐 IoT, Embedded & Full-Stack
-* **Hardware Integration:** Interfacing Android environments with Arduino, Raspberry Pi, and embedded systems.
-* **Backend Systems:** Building supportive backend infrastructure using PHP, Node.js, and AWS-hosted services.
+### 🌐 IoT & Full-Stack Capabilities
+* **Hardware Interfacing:** Designing apps that communicate with Arduino, Raspberry Pi, and connected sensors.
+* **Backend Support:** Building full-stack features using PHP, Node.js, and AWS architecture.
 
 ---
 
@@ -29,19 +29,19 @@ I bridge the gap between software and hardware—scaling enterprise applications
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Kotlin, PHP, SwiftUI, Python |
-| **Automotive & AOSP** | Android Automotive OS (AAOS), Android.bp, AIDL, JNI, Car API |
-| **Android Core** | Android SDK, Android Studio, Gradle, MVVM, Clean Architecture, Jetpack |
-| **Networking & Cloud**| Retrofit, REST APIs, JSON, Firebase, AWS, Node.js |
-| **Tools & OS** | Git, Linux, ADB, Fastboot, WSL, Jira |
+| **Languages** | **Java**, Kotlin, PHP, Python, SwiftUI |
+| **AAOS Application Layer** | Android Car APIs, Android.bp Integration, AIDL, JNI, Android Services |
+| **Android Core** | Android SDK, MVVM, Clean Architecture, Retrofit, Firebase, Gradle |
+| **Connected & IoT** | BLE (TPMS), Arduino, Raspberry Pi, Wi-Fi/Node.js connectivity |
+| **Tools & Platforms** | Git, AOSP Build System, ADB, Fastboot, Linux, WSL, Jira |
 
 ---
 
 ## 📈 Key Milestones & Achievements
 
-* 🚗 **Automotive Engineering:** Engineering next-generation EV cluster systems at Royal Enfield.
-* 📱 **Indie Development:** Built and independently published **25+ applications** to the Google Play Store.
-* 💼 **Proven Track Record:** 6.5+ years of production experience spanning Automotive, IoT, and SaaS platforms.
+* 🚗 **Connected Mobility:** Developing the production application stack for next-gen Royal Enfield EV clusters.
+* 📱 **Indie Product Delivery:** Independently built and published **25+ applications** to the Google Play Store.
+* 💼 **Proven Track Record:** 6.5+ years of experience spanning automotive apps, IoT systems, and enterprise SaaS.
 * 🎓 **Academic Foundation:** Master of Computer Applications (MCA) graduate.
 
 ---
