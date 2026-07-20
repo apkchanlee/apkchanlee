@@ -8,16 +8,16 @@ I bridge the gap between software and hardware—scaling enterprise applications
 
 ## 🚀 Core Expertise
 
+### 📱 Enterprise Android Engineering
+* **Architecture:** Architecting robust, testable, and maintainable codebases utilizing MVVM and Clean Architecture principles.
+* **Languages & Core SDK:** Advanced proficiency in Java and Kotlin alongside the core Android SDK.
+* **Data & Networking:** Integrating secure REST APIs (Retrofit), JSON parsing, and Firebase platform services.
+
 ### 🚗 Android Automotive & EV Systems
 * **AAOS Development:** Building production-ready applications for EV instrument clusters using Android Car APIs.
 * **AOSP & Build Systems:** Integrating application layers into AAOS source builds using `Android.bp` and the AOSP build system.
 * **Inter-Process Communication:** Implementing robust, efficient IPC architectures using Android AIDL.
 * **Connected Mobility:** Developing BLE communication protocols for TPMS and hardware devices to process real-time sensor data.
-
-### 📱 Enterprise Android Engineering
-* **Architecture:** Architecting robust, testable, and maintainable codebases utilizing MVVM and Clean Architecture principles.
-* **Languages & Core SDK:** Advanced proficiency in Java and Kotlin alongside the core Android SDK.
-* **Data & Networking:** Integrating secure REST APIs (Retrofit), JSON parsing, and Firebase platform services.
 
 ### 🌐 IoT, Embedded & Full-Stack
 * **Hardware Integration:** Interfacing Android environments with Arduino, Raspberry Pi, and embedded systems.
