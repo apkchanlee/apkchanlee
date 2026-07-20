@@ -16,7 +16,7 @@ I bridge the gap between software and hardware—scaling enterprise applications
 
 ### 📱 Enterprise Android Engineering
 * **Architecture:** Architecting robust, testable, and maintainable codebases utilizing MVVM and Clean Architecture principles.
-* **Languages & Core SDK:** Advanced proficiency in Kotlin and Java alongside the core Android SDK.
+* **Languages & Core SDK:** Advanced proficiency in Java and Kotlin alongside the core Android SDK.
 * **Data & Networking:** Integrating secure REST APIs (Retrofit), JSON parsing, and Firebase platform services.
 
 ### 🌐 IoT, Embedded & Full-Stack
@@ -29,7 +29,7 @@ I bridge the gap between software and hardware—scaling enterprise applications
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Kotlin, Java, Swift, PHP, Python |
+| **Languages** | Java, Kotlin, PHP, SwiftUI, Python |
 | **Automotive & AOSP** | Android Automotive OS (AAOS), Android.bp, AIDL, JNI, Car API |
 | **Android Core** | Android SDK, Android Studio, Gradle, MVVM, Clean Architecture, Jetpack |
 | **Networking & Cloud**| Retrofit, REST APIs, JSON, Firebase, AWS, Node.js |
