@@ -1,35 +1,59 @@
 # Hi there, I'm Chandru Venkatesan (apkchanlee) 👋
 
-I am a **Senior Android Engineer** with over 6.5 years of experience specializing in standard Android, **Android Automotive OS (AAOS)**, and **IoT/Embedded platforms**. Currently, I'm building production-grade instrument cluster software for electric vehicles at **Royal Enfield**.
+I'm a **Senior Android Engineer** with 6.5+ years of experience developing Android and Android Automotive (AAOS) applications for enterprise, IoT, and EV platforms. Currently, I build production Android Automotive applications for EV instrument cluster software at **Royal Enfield**.
 
-Beyond my corporate work, I am an indie developer who has successfully built and published **25+ applications** on the Google Play Store.
-
----
-
-### 🛠️ What I Do
-- **Automotive & EV:** Building AAOS apps, custom AOSP builds, Car APIs, and AIDL IPC.
-- **IoT & Connected Tech:** Creating BLE communication modules (like TPMS) and integrating Android with hardware (Arduino, Raspberry Pi).
-- **Enterprise & Full-Stack:** Scaled SaaS Super Apps, integrated payment gateways, and built PHP/AWS backends.
+I enjoy building scalable Android applications, integrating Android into AAOS, and working on connected vehicle technologies.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🚀 What I Do
+
+### 📱 Android Development
+- Android SDK
+- Java & Kotlin
+- MVVM & Clean Architecture
+- REST APIs
+- Firebase
+- Android Services
+
+### 🚗 Android Automotive
+- Android Automotive (AAOS) application development
+- Android.bp & AOSP application integration
+- Android Car APIs
+- Android AIDL
+- BLE communication
+- EV Instrument Cluster applications
+
+### ☁️ Backend
+- PHP
+- AWS
+- MySQL
+- Firebase Realtime Database
+
+---
+
+## 🛠 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Kotlin, PHP, Swift, Python |
-| **Automotive & AOSP** | AAOS, Android.bp, AIDL, JNI, Car API, Hardware Integration |
-| **Android Core** | Android SDK, MVVM, Clean Architecture, Jetpack, Gradle |
-| **Connectivity & Networking** | BLE, REST APIs, Retrofit, Firebase, Node.js |
-| **Tools & OS** | Git, ADB, Fastboot, Linux, WSL, Jira |
+| **Languages** | Java, Kotlin, PHP, SwiftUI, Python |
+| **Android** | Android SDK, Android Studio, AAOS, Android.bp, AIDL, JNI, MVVM |
+| **Networking** | Retrofit, REST APIs, Firebase, JSON |
+| **Tools & OS** | Git, Linux, ADB, Fastboot, WSL, Jira |
 
 ---
 
-### 📈 Metrics & Milestones
-- 🛞 Currently shaping the digital rider experience for next-gen Royal Enfield EVs.
-- 📱 25+ personal/independent applications live on the Play Store.
-- 🎓 Master of Computer Applications (MCA) graduate.
+## 📈 Achievements
 
-📫 **How to reach me:** 
-- 💼 [LinkedIn](https://linkedin.com/in/apkchanlee)
-- 📧 apkchanlee@gmail.com
+- 🚗 Developing production Android Automotive software at Royal Enfield.
+- 📱 Published 25+ Android applications.
+- 🎓 Master of Computer Applications (MCA).
+- 💼 6.5+ years of professional Android development experience.
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/apkchanlee
+- 🌍 Portfolio: https://infotechgalaxy.com
+- 📧 Email: apkchanlee@gmail.com
