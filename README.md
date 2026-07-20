@@ -17,7 +17,7 @@ Beyond my corporate work, I am an indie developer who has successfully built and
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Kotlin, Java, Swift, PHP, Python |
+| **Languages** | Java, Kotlin, PHP, Swift, Python |
 | **Automotive & AOSP** | AAOS, Android.bp, AIDL, JNI, Car API, Hardware Integration |
 | **Android Core** | Android SDK, MVVM, Clean Architecture, Jetpack, Gradle |
 | **Connectivity & Networking** | BLE, REST APIs, Retrofit, Firebase, Node.js |
